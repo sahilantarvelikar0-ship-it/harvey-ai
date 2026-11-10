@@ -1,0 +1,6 @@
+{
+  "name": "HARVEY - Personal AI Companion",
+  "description": "Premium futuristic personal AI companion inspired by JARVIS supporting Proper English, Proper Hindi (Devanagari script), and Natural Hinglish with ultra-smooth streaming typewriter HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
